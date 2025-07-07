@@ -1,0 +1,3 @@
+GeminiFlash2.0
+pymupdf
+python-dotenv

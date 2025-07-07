@@ -1,0 +1,44 @@
+Job Summary
+
+We are seeking a detail-oriented Data Analyst to support our customer’s data program through statistical analysis and data visualization. The ideal candidate will demonstrate strong technical rigor and the ability to tell compelling stories through data. You will collaborate with the data engineering team to source datasets and conduct insightful analysis to answer business-critical questions. This role requires proficiency in querying, reshaping, aggregating, and visualizing data.
+
+
+Key Responsibilities
+
+Collect and analyse basic to moderately complex quantitative data from internal systems and external sources.
+Collaborate with customer’s data team to develop new, relevant datasets.
+Conduct technically sound, reproducible analyses to support strategic decision-making.
+Work closely with Power BI developers to convert ad-hoc analyses into scalable dashboards and recurring visualizations.
+Manage a portfolio of assigned projects under the guidance of senior staff.
+Calculate Key Performance Indicators (KPIs) and metrics to drive actionable business insights.
+May provide mentorship in statistical methods and visualization best practices to junior team members.
+
+
+
+
+Job Requirements
+
+
+
+Skills
+
+Intermediate SQL knowledge
+Intermediate Microsoft Excel skills
+Proficiency in statistics or advanced mathematics; descriptive statistics preferred
+Strong written and verbal communication skills, with the ability to tailor communication to different audiences
+Ability to work both independently and collaboratively within a team environment
+Basic knowledge of Business Intelligence (BI) tools such as Power BI, Looker, Tableau, or similar
+Basic familiarity with notebook-driven analysis tools like Jupyter, Databricks, R Markdown, or comparable platforms
+
+
+Expected Outcomes
+
+Deliver timely, accurate ad-hoc analyses that support senior leadership and functional teams.
+Create detailed, parameterized reports that effectively answer specific business questions using relevant metrics.
+Ensure stakeholders understand the nuances of datasets and the valid inferences that can be drawn.
+
+
+Education & Certifications
+
+Education or job knowledge equivalent to a college or university undergraduate degree.
+Degree in Business, Information Systems, or Computer Science preferred.

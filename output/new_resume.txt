@@ -1,0 +1,95 @@
+Sreelatha Gounipalle
+
+[gounipallesreelatha@gmail.com](mailto:youremail@yourdomain.com) *|* [+91 8374250701](tel:+91 99999-99999) *|* [linkedin.com/in/sreelatha03](https://linkedin.com/in/yourusername)
+
+**Experience**
+
+**Software Developer I**, Alyve Health Sept 2024 – Present
+
+*•* At Alyve Health, I contributed to designing scalable backend systems and data integration pipelines to support digital health services and partner integrations, significantly improving automation, performance, and operational efficiency.
+
+*•* Insurer-Hospital Mapping API Integration: Designed RESTful APIs to automate mapping between third-party insurers (e.g., FHPL) and 5,000+ hospital facilities, streamlining onboarding and claims routing, reducing manual dependencies.
+
+*•* Automated WhatsApp Communication via WATI: Built WhatsApp communication flows using the WATI API integration to automate user notifications, resulting in a 25% increase in user engagement and reduced manual customer outreach by 70%.
+
+*•* Backend and ETL Development: Built scalable backend services using Flask, Python, and MySQL focusing on clean data modeling. Automated ETL pipelines using cron jobs and AWS S3 for data ingestion, transformation, and archival, improving API response times by 40% and enabling consistent data availability for analytics.
+
+*•* Health camp communication system: Built automated health camp communication using APIs, cron jobs, and WATI WhatsApp integration. Processed Excel files for non-integrated partners, generating orders and validating PII with email alerts on mismatches. For integrated partners, fetched and verified reports via partner APIs. Delivered digitized reports through WhatsApp, triggering ops alerts for exceptions.
+
+*•* Testing, CI/CD and DevOps: Implemented robust unit and integration test suites achieving 98% test coverage, reducing production bugs by 35%. Contributed to CI/CD pipelines using Git, Shell scripting, and followed Agile sprint cycles. Managed deployments in a Linux environment with backups on AWS EC2 and S3.
+
+**Education**
+
+**Chaitanya Bharathi Institute of Technology(CBIT), Hyderabad,**
+
+Bachelor of Engineering in Information Technology, **CGPA:** 8.24/10
+
+**Skills**
+
+*•* **Languages and Frameworks:** Python, Java, SQL, Bash, Flask, Django, REST APIs
+
+*•* **Data Engineering and ETL:** PySpark, Apache Kafka, Azure Data Factory, Hive, Hadoop, SQLAlchemy, Data Ingestion, Data Transformation
+
+*•* **Cloud and DevOps:** AWS (S3, EC2), Azure (Data Factory, SQL), Git, CI/CD, Linux, Docker
+
+*•* **Databases:** MySQL, PostgreSQL, SQL Server, MongoDB, Cassandra, Oracle
+
+*•* **Data Modeling and Warehousing:** Star/Snowflake Schema, Normalization, OLAP, Data Lakes
+
+*•* **Testing and Performance:** Unit Testing, Integration Testing, Cron Jobs, Load Optimization
+
+*•* **Business Intelligence & Visualization:** Power BI, Apache Superset, Domo
+
+*•* **Tools:** IntelliJ, VS Code, Postman, JIRA, GitHub, SonarQube
+
+*•* **Analytics Tools:** Python, R, Spark, Jupyter
+
+*•* **Statistical Analysis:** Descriptive Statistics, Inferential Statistics, Root Cause Analysis
+
+* •* **Data Analysis**: Data Visualization, KPI Calculation, Metrics Reporting, Ad-hoc Analysis
+
+**Projects**
+
+**Real-Time Sales Analytics Pipeline**
+
+*•* **Technologies:** Kafka, Spark Streaming, Hive, MySQL, Cassandra, Superset
+
+*•* Built a streaming data pipeline to process real-time sales data for an e-commerce platform.
+
+*•* Streamed order data via Kafka, processed it using PySpark, and stored aggregates in MySQL for dashboards.
+
+*•* Stored raw and timestamped data in Cassandra, enabling fast retrieval and traceability.
+
+*•* Visualized metrics like sales trends and product performance using Apache Superset.
+
+**Resume Tailoring Automation Tool**
+
+*•* **Technologies:** Python, OpenAI API, Regex, Streamlit, ATS principles
+
+*•* Built a tool that parses any job description (JD) and auto-tailors resumes to improve ATS match scores (>95%) using keyword alignment.
+
+*•* Used OpenAI’s GPT API to extract key skills, generate tailored bullet points, and adjust resume sections with natural language flow.
+
+*•* Developed JD parsing using regex and keyword extraction, and enabled export to PDF/DOCX formats.
+
+*•* Demonstrated high match performance on platforms like Jobscan and Resumeworded.
+
+**Movie Recommendation System with Sentiment Analysis**
+
+*•* **Technologies:** Flask, Python, Scikit-learn, TMDB API, jQuery, AJAX
+
+*•* Designed a web app that recommends top 10 similar movies using cosine similarity based on content features.
+
+*•* Incorporated a Naive Bayes-based sentiment analysis model to refine recommendations using user review polarity.
+
+*•* Implemented asynchronous loading using AJAX, and fetched movie metadata using TMDB API.
+
+**ETL Analytics on Azure and Databricks**
+
+*•* **Technologies:** Azure Data Factory, Databricks, Python, SQLAlchemy, Power BI
+
+*•* Designed and implemented scalable ETL components in Azure Data Factory, loading datasets into Azure SQL and Databricks.
+
+*•* Authored maintainable SQL transformation scripts and built data models following star schema best practices.
+
+*•* Visualized insights in Power BI and integrated Git versioning for ETL pipeline code.
